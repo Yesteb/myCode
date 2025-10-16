@@ -1,0 +1,20 @@
+1. Voy a casa
+2. Me cambio de ropa
+3. Como
+4. Arreglo mi area de estudio
+5. Termino Estadistica
+6. Estudio Estructura de datos
+7. En estructura de datos debo de estudiar:
+	7.1 Sobrecarga de operadores
+	7.2 Parametros por referencia
+	7.3 Cuantos bytes ocupa la clase Fraccion
+	7.4 Funcion lambda
+	7.5 Arreglar el #include usando la estructura de carpetas pertinentes
+	7.6 Adelantar clase
+8. Estructurar Liderazgo
+9. Imprimir todo lo necesario para estadistica
+10. Comer
+11. Cepillarme los dientes
+12. Lavarme la cara.
+13. Acostarme
+14. Dormir
